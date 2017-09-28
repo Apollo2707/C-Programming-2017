@@ -14,7 +14,7 @@
  *             -1 if intArray is NULL
  *             -2 if intArray is unsortable (dimension of 1) or arrayLen is unrealistic (e.g., negative)
  *
- * NOTES:      This function should simply sort an array of integers from smallest to largest, in place.
+ * NOTES:      This function should simply sort an array of integers from largest to smallest, in place.
  *                 This means the values of integers should be swapped within the given array.
  *             This function was written in 53 lines (counting function declaration, Allman style
  *                 brackets, error checking and comments.  The concept may be more difficult than the 
